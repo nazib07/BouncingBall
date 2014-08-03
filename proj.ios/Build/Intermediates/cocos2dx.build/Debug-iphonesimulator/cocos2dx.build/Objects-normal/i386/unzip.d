@@ -1,0 +1,6 @@
+dependencies: \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/support/zip_support/unzip.cpp \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/support/zip_support/unzip.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/ios/CCPlatformDefine.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/support/zip_support/ioapi.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/CCPlatformConfig.h

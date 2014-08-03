@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShaders.cpp \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShaders.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/ios/CCGL.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/CCPlatformMacros.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../include/ccConfig.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/CCPlatformConfig.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/proj.ios/../platform/ios/CCPlatformDefine.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_Position_uColor_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_Position_uColor_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionColor_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionColor_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTexture_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTexture_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTextureA8Color_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTextureA8Color_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTextureColor_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTextureColor_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTextureColorAlphaTest_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTexture_uColor_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionTexture_uColor_vert.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShaderEx_SwitchMask_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionColorLengthTexture_frag.h \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/cocos2dx/shaders/ccShader_PositionColorLengthTexture_vert.h

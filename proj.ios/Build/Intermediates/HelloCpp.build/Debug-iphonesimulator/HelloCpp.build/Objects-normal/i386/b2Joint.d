@@ -1,0 +1,27 @@
+dependencies: \
+  /Volumes/Work/Cocos2dxDevelopment/Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Common/b2Math.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Common/b2Settings.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/b2Body.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Collision/Shapes/b2Shape.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Common/b2BlockAllocator.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Collision/b2Collision.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/b2World.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Common/b2StackAllocator.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/b2ContactManager.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Collision/b2BroadPhase.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Collision/b2DynamicTree.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Common/b2GrowableStack.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/Box2D/Dynamics/b2TimeStep.h

@@ -1,0 +1,37 @@
+Contents of /Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/Prefix.pch
+-x
+c++
+-arch
+i386
+-fpascal-strings
+-O0
+-DUSE_FILE32API
+-DCC_TARGET_OS_IPHONE
+-DCOCOS2D_DEBUG=1
+-DCC_ENABLE_CHIPMUNK_INTEGRATION
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-mios-simulator-version-min=4.0
+-iquote
+-iquote
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/Build/Products/Debug-iphonesimulator/include
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/CocosDenshion/include
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/chipmunk/include/constraints
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external/chipmunk/include/chipmunk
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/extensions
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx/kazmath/include
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/external
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx/include
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx/platform/third_party/ios
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx/platform/ios
+-I/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/../../../Libraries/cocos2d-x-2.2.2/cocos2dx/platform/ios/Simulation
+-F/Volumes/Work/Cocos2dxDevelopment/Projects/BouncingBall/proj.ios/Build/Products/Debug-iphonesimulator
+-O2
+i386-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.76)"
+SDK_PRODUCT_BUILD_VERSION=11A465
+11A465
